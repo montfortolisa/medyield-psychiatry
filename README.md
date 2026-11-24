@@ -1,43 +1,31 @@
-# MedYield: Psychiatry Qbank
+# MedYield Psychiatry
 
-A free, offline psychiatry question bank for medical students preparing for the USMLE and other medical examinations.
+**Psychiatry question bank for medical students and junior residents, including Part 1 candidates.**
 
-**Open the app:** https://montfortolisa.github.io/medyield-psychiatry/
+🔗 **Open the app:** https://montfortolisa.github.io/
+📱 **Google Play:** search *MedYield Psychiatry* (coming soon)
 
-## Features
-
-- 100 NBME-style clinical vignettes (more being added)
-- Answers keyed to **DSM-5-TR**, with the **ICD-11** code and key differences shown for every question
-- An explanation for every option, not just the correct one
-- The answer stays hidden until you choose an option and tap Submit
-- Review your mistakes, flag questions and practise by section
-- Works fully offline once opened
-- No account, no adverts, no tracking
-
-## Sections covered
-
-Psychiatric assessment · Psychotic disorders · Mood disorders · Anxiety and related disorders · Substance-related disorders · Child and adolescent psychiatry · Neurocognitive disorders · Other adult disorders · Psychiatric treatment · Emergencies and mental health law
-
-## Install on your phone
-
-1. Open the app link in Chrome.
-2. Tap the **⋮** menu, then **Add to Home screen** or **Install app**.
-3. It now opens like a normal app, even without internet.
-
-## Quality
-
-Each question is written to NBME item-writing standards. Each set is checked by an independent reviewer who answers every question without seeing the key, and any problems found are fixed before release. Sources and guidelines are listed with each question.
+## What's inside
+- 686 exam-style questions: clinical vignettes (single best answer), rapid recall and true/false
+- 302 flashcards with spaced repetition
+- 201 High Yield Notes (mnemonics and one-screen summaries)
+- An explanation for every option, with DSM-5-TR and ICD-11 criteria and sources
+- Custom tests, timed mode, exam tools, lab values and performance statistics
+- Works offline after the first visit; no account needed
 
 ## Privacy
-
-Your progress is saved only on your own device. See the [privacy policy](https://montfortolisa.github.io/medyield-psychiatry/privacy.html).
-
-## Disclaimer
-
-For education and exam preparation only. Not medical advice.
+MedYield collects no personal data. Progress is stored only on the user's device.
+Privacy policy: https://montfortolisa.github.io/privacy.html
 
 ## Author
+**Dr. Olisa Montfort Uche**, MBBS, FMCPsych
+Consultant Psychiatrist and Senior Lecturer
+MedYield Psychiatry was conceived and designed by Dr. Olisa Montfort Uche.
 
-Dr. Olisa Montfort Uche, MBBS, FMCPsych, Consultant Neuro-Psychiatrist, Enugu, Nigeria.
+Questions or error reports: olisamontfortevaristus@gmail.com
 
+## Copyright
 © 2026 Dr. Olisa Montfort Uche. All rights reserved.
+The questions, explanations, flashcards, notes and app design may not be copied, reproduced or distributed, in whole or in part, without written permission.
+
+*For education and exam preparation only. Not medical advice.*
